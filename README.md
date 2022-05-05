@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nabies
-- 👀 I’m interested in developing websites.
-- 🌱 I’m currently learning coding.
+- 👀 Intreated on Developing.
+- 🌱 I’m currently an Graduate.
 - 💞️ I’m looking to collaborate on to be. stack developer
 - 📫 How to reach me mail me nawin2026@gmail.com
 
