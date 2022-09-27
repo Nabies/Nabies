@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nabies
 - 👀 Intreated on Developing.
 - 🌱 I’m currently an Graduate.
-- 💞️ I’m looking to collaborate on to be. stack developer
+- 💞️ Front-end Developer
 - 📫 How to reach me mail me nawin2026@gmail.com
 
 <!---
